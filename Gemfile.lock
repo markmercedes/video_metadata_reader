@@ -48,6 +48,7 @@ GEM
       debug_inspector (>= 0.0.1)
     builder (3.2.2)
     byebug (6.0.2)
+    dalli (2.7.4)
     debug_inspector (0.0.2)
     erubis (2.7.0)
     globalid (0.3.6)
@@ -114,6 +115,7 @@ PLATFORMS
 
 DEPENDENCIES
   byebug
+  dalli
   rails (= 4.2.4)
   rlovelett-ffmpeg!
   spring
